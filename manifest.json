@@ -1,0 +1,6 @@
+{
+  "name": "PR Reviewer",
+  "version": "0.1",
+  "description": "Verify your conventions for PRs",
+  "manifest_version": 2
+}
